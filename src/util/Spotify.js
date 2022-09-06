@@ -1,6 +1,6 @@
 let accessToken;
 //make sure to get rid of this before publishing
-const clientID = 'da959dcae1fc4d978fb54fcf63361795';
+const clientID = '';
 //seriously use somthing fake before publishing
 const redirectURI = 'http://localhost:3000';
 const Spotify = {
